@@ -1,5 +1,6 @@
-This is an one of the sample projects detailed in ExtJS by Example.
-This sample application uses ExtJS 6 and GoLang.
-Simply clone or download, and run the following command in terminal window and open localhost:9000 in the browser
+The sample project "Company Directory" is one of the sample projects detailed in the book ExtJS by Example.
+This sample application uses ExtJS 6 and GoLang. To run this sample application, simply clone or download, and run the following command in terminal window and open localhost:9000 in the browser. 
 
-      go run CompanyDirectory.go
+      go run server/CompanyDirectory.go
+
+Note, this example uses cloudflare CDN for ExtJS 6. If the CDN doesn't work, you may need to update ExtJS lib urls in index.html and point to the local ExtJS library path.
