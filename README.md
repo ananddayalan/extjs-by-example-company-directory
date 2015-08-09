@@ -1,4 +1,4 @@
-This "Company Directory" is one of the sample projects detailed in the book ExtJS by Example.
+This "Company Directory" is one of the sample projects detailed in the book "ExtJS by Example".
 This sample application uses ExtJS 6 and GoLang. To run this sample application, simply clone or download, and run the following command in terminal window and open localhost:9000 in the browser. 
 
       go run server/CompanyDirectory.go
