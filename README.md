@@ -4,3 +4,5 @@ This sample application uses ExtJS 6 and GoLang. To run this sample application,
       go run server/CompanyDirectory.go
 
 Note, this example uses cloudflare CDN for ExtJS 6. If the CDN doesn't work, you may need to update ExtJS lib urls in index.html and point to the local ExtJS library path.
+
+The installation guide for ExtJS 6, Sencha Cmd, and GoLang are explained in the book ExtJS by Example.
